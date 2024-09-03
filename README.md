@@ -1,4 +1,4 @@
-# OracleDB
+# OracleSQL
 My SQLDeveloper codes from class. To see:
 1. Click `Code`
 2. Select `Download ZIP`
